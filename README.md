@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajwalahetti
-- 👀 I’m interested in web dev,cybersecurity snf photoshop
+- 👀 I’m interested in web dev,cybersecurity and photoshop
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
