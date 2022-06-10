@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prajwalahetti
-- 👀 I’m interested in web dev,cybersecurity and photoshop
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on MERN stack projects
+- 📫 How to reach me prajwal.ahetti@gmail.com
 
 <!---
 prajwalahetti/prajwalahetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
